@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "337230524688",
+    "firebase_url": "https://quiz-f1581.firebaseio.com",
+    "project_id": "quiz-f1581",
+    "storage_bucket": "quiz-f1581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337230524688:android:4275a484cd364ab3",
+        "android_client_info": {
+          "package_name": "com.digipodium.brainfreezer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337230524688-qug0clrio5iupf7sbc65tgel1mdof4ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.brainfreezer",
+            "certificate_hash": "7489327d87264290e262d5e5c991c7ef86020679"
+          }
+        },
+        {
+          "client_id": "337230524688-ilpcrvbjb4s9j7bv2oiqgc13qfrr3sqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.brainfreezer",
+            "certificate_hash": "75b544f2acb553a5c6834af0142ef7a2567d2cfb"
+          }
+        },
+        {
+          "client_id": "337230524688-tfmlne4raci4oegavih2qr4blrnb3q78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcYhV2ims1DOOCkEo9LzYYHmIpqdrV5qQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337230524688-tfmlne4raci4oegavih2qr4blrnb3q78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
